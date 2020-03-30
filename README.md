@@ -62,7 +62,7 @@ All errors that occur during any interaction with the API will be raised as exce
 
 Install with ``composer``:
 ``` sh
-composer require coinbase/coinbase-commerce
+composer require toopago/coinbase-commerce
 ```
 ## Usage
 ``` php
